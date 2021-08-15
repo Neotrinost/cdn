@@ -1,2 +1,2 @@
 # cdn
-Neotrinost Projects CDN.
+Neotrinost CDN repository for hosting CSS and JS files.
