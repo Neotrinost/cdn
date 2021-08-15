@@ -1,0 +1,2 @@
+# cdn
+Neotrinost Projects CDN.
