@@ -11,3 +11,10 @@ body {
 .br {
     padding: 2px;
 }
+.tgrm {
+    cursor: pointer;
+    padding: 5%;
+    background: blue;
+    border-radius: 10px;
+    color: white;
+}
